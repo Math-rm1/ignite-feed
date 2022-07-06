@@ -11,11 +11,11 @@ Rede social chamada Ignite Feed, desenvolvida no primeiro módulo do curso Ignit
 É um feed onde podemos comentar as postagens, interagir com os comentários e também excluí-los.
 
 ### :computer: Layout web
-  <img height="500px" alt="Mobile 01" src="https://github.com/Math-rm1/ignite-feed/blob/master/src/assets/ignite-feed-web.png"/> 
+  <img alt="Mobile 01" src="https://github.com/Math-rm1/ignite-feed/blob/master/src/assets/ignite-feed-web.png"/> 
 
 ### :iphone: Layout mobile
   <div align="center">
-    <img height="500px" alt="Mobile 01" src="https://github.com/Math-rm1/ignite-feed/blob/master/src/assets/ignite-feed-mobile.png"/> 
+    <img alt="Mobile 01" src="https://github.com/Math-rm1/ignite-feed/blob/master/src/assets/ignite-feed-mobile.png"/> 
   </div>
 
 ## :rocket: Tecnologias utilizadas
